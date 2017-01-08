@@ -2,6 +2,7 @@ MidiVisualizerAdvance
 =====
 
 Upgrade of kpj's MidiVisualizer.
+( https://github.com/kpj/MidiVisualizer )
 
 Visualization of MIDI files using WebGl.
 
